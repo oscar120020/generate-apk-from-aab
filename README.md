@@ -6,7 +6,7 @@
 
 This will generate a file named: app-release.aab.apks.
 
-## Step 2: Run the nex comand to generate a Zip with the final APK.
+## Step 2: Run the next comand to generate a Zip with the final APK.
 
 ```ren app-release.aab.apks app-release.aab.apks.zip```
 
