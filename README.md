@@ -4,7 +4,7 @@
 
 ```java -jar bundletool.jar build-apks --bundle=app-release.aab --output=app-release.aab.apks --ks=your-upload-key.keystore --ks-key-alias=your-key-alias --mode=universal```
 
-This will generate a file maned: app-release.aab.apks.
+This will generate a file named: app-release.aab.apks.
 
 ## Step 2: Run the nex comand to generate a Zip with the final APK.
 
